@@ -16,5 +16,5 @@ text to image model for serverless deployment.
 4. Create a new serverless endpoint on RunPod with the image you just pushed.
 
 ## 🔗 | Links
-- 🐳 [Docker Container](https://hub.docker.com/r/runpod/ai-api-sdxl)
+- 🐳 [Docker Container](https://hub.docker.com/r/hypnocapybara/runpod-proteus)
 - [RunPod workers repo](https://github.com/runpod-workers)
